@@ -1,26 +1,5 @@
 [
   {
-    "id": "1544847",
-    "tmdbId": 1544847,
-    "imdbId": "tt38265603",
-    "type": "movie",
-    "title": "Pradhama Drishtya Kuttakkar",
-    "overview": "Follows a woman constable who joins the police force through appointment after the death of her husband.",
-    "year": "2026",
-    "rating": 6.0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zcxFgdE2aHOQq3tlKDDn6RYdVWr.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/bgneM7nHQVl8SxbL5FkupFLJ1Fd.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/6Da7JBHLyyMcSHocBadzQyQ4ZAp.png",
-    "certificate": "",
-    "runTimeMinutes": 161,
-    "primaryGenre": "Crime",
-    "secondaryGenre": "Drama",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ml"
-  },
-  {
     "id": "1036081",
     "tmdbId": 1036081,
     "imdbId": "tt22797990",

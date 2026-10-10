@@ -1,26 +1,5 @@
 [
   {
-    "id": "1792171",
-    "tmdbId": 1792171,
-    "imdbId": "tt39821515",
-    "type": "movie",
-    "title": "Life Today",
-    "overview": "Shivu was a man who kept to himself until Amruta came into his life. She broke down his defenses, causing him to fall profoundly in love with her, contrary to his usual demeanor. Yet, despite their strong connection,",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/jxHzzXhdhryiaWA2lJ9Bw3eCE89.jpg",
-    "backdropUrl": null,
-    "logoUrl": null,
-    "certificate": "",
-    "runTimeMinutes": 149,
-    "primaryGenre": "",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "kn"
-  },
-  {
     "id": "1625018",
     "tmdbId": 1625018,
     "imdbId": "tt36984281",

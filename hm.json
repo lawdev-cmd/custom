@@ -1,26 +1,5 @@
 [
   {
-    "id": "1220538",
-    "tmdbId": 1220538,
-    "imdbId": "tt21378820",
-    "type": "movie",
-    "title": "Pooja Meri Jaan",
-    "overview": "After Pooja rejects Aniket’s romantic advances, his subsequent death by suicide leaves her facing accusations. As lawyer and friend Sana investigates the circumstances surrounding the incident, questions of obsession, consent, responsibility and the truth behind Pooja’s relationship with Aniket begin to emerge.",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/g6JmYwvEopRlHCV1NykM5NjSPrw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/anwB9RlA2haerdblfBcl5OH9gtr.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/e2lw6cOZAFf6eBm1WKePmff3aJu.png",
-    "certificate": "A",
-    "runTimeMinutes": 118,
-    "primaryGenre": "Thriller",
-    "secondaryGenre": "Crime",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "hi"
-  },
-  {
     "id": "1727563",
     "tmdbId": 1727563,
     "imdbId": "tt36626888",

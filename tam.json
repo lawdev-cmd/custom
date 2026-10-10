@@ -1,26 +1,5 @@
 [
   {
-    "id": "1724704",
-    "tmdbId": 1724704,
-    "imdbId": "tt39052798",
-    "type": "movie",
-    "title": "Promise",
-    "overview": "Mithran's quiet, unwavering devotion to Lakshmi survives family opposition and social pressure - and finally leads them to the altar. But marriage brings burdens neither anticipated. Unfulfilled promises and unspoken failures slowly erode their bond, until a single broken vow spirals into a chain of events neither can control. Consumed by guilt and the fear of losing everything he fought for, Mithran is pushed to a breaking point - and the promise that follows will change both their lives forever.",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/a9HQrvrcPIghm0cvf1q5KLaxfvw.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/3R3PDK7m2J4UjDMySuQ1CnnqqGo.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/n6T7wNXGddIME26kuRKvKTg70op.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 109,
-    "primaryGenre": "Drama",
-    "secondaryGenre": "",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "ta"
-  },
-  {
     "id": "1465943",
     "tmdbId": 1465943,
     "imdbId": "tt36596965",

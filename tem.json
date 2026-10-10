@@ -1,26 +1,5 @@
 [
   {
-    "id": "1049064",
-    "tmdbId": 1049064,
-    "imdbId": "tt30050236",
-    "type": "movie",
-    "title": "Mahendragiri Vaaraahi",
-    "overview": "Siddharth, an atheist and skeptic, is drawn into a mysterious journey surrounding the ancient Varahi temple at Mahendragiri. As he uncovers secrets connected to the sacred site, he is forced to confront forces beyond his understanding, challenging his beliefs and changing his perception of faith, destiny, and the supernatural.",
-    "year": "2026",
-    "rating": 0,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/hYfu1SIE1wViNVPT0zdlqTwpPeb.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/w1280/qfZSKbfit41qcjBOvUDWV2v9WEz.jpg",
-    "logoUrl": "https://image.tmdb.org/t/p/w500/rCMA4zLOQqS98fR2bNGXjEAHMjw.png",
-    "certificate": "U/A 16+",
-    "runTimeMinutes": 154,
-    "primaryGenre": "Fantasy",
-    "secondaryGenre": "Thriller",
-    "originCountries": [
-      "IN"
-    ],
-    "originalLanguage": "te"
-  },
-  {
     "id": "1604274",
     "tmdbId": 1604274,
     "imdbId": "tt37537243",
